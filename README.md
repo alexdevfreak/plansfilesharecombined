@@ -101,7 +101,7 @@ python3 bot.py
 
 <h3>「 ᴄʀᴇᴅɪᴛs 」</h3>
 
-- <b>[YourName](https://github.com/yourusername) ➻ [Updates Channel](https://t.me/yourchannel)</b>  
+- <b>[ALESDEV](https://github.com/alexdevfreak) ➻ [Teligram Channel](https://t.me/Alex_Aboutclb)</b>  
 - <b>All contributors who helped in building & testing this bot 🖤</b>  
 
 ━━━━━━━━━━━━━━━━━━━━
