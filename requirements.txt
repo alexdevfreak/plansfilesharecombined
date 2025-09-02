@@ -1,10 +1,25 @@
-pip==25.1.1
-setuptools>=65.0.0
-wheel
-
+# Core Telegram libraries
 pyrogram==2.0.106
-aiogram==3.4.1
-pydantic>=2.4,<2.6
+telethon==1.34.0
+python-telegram-bot==20.8
+
+# Crypto dependencies (prebuilt wheels only)
+pycryptodome==3.21.0
+cryptography==42.0.5
+
+# HTTP & Utils
+aiohttp==3.9.5
+requests==2.32.3
+urllib3==2.2.2
+
+# Database
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Deployment helpers
+gunicorn==22.0.0
+uvicorn==0.30.1
+
+# Other safe tools
 python-dotenv==1.0.1
-requests==2.31.0
-httpx==0.27.0
+pytz==2024.1
