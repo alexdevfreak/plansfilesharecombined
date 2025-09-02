@@ -1,4 +1,5 @@
 pyrogram==2.0.106
-tgcrypto>=1.2.0,<1.3.0
 aiogram==3.4.1
 python-dotenv==1.0.1
+# tgcrypto is optional; install only if supported
+tgcrypto>=1.2.0,<1.3.0; platform_machine != "unknown"
