@@ -1,22 +1,10 @@
-# Telegram Clients
-pyrogram==2.0.106
-aiogram==3.4.1
-
-# Crypto optimization (optional, Render auto-skips if unsupported)
-tgcrypto>=1.2.0,<1.3.0; platform_machine != "unknown"
-
-# Database (optional)
-sqlalchemy==1.4.49
-aiosqlite==0.20.0
-
-# Utils
-requests==2.31.0
-python-dotenv==1.0.1
-httpx==0.27.0
-
-# Aiogram needs pydantic v2
-pydantic>=2.4,<2.6
-
 pip==25.1.1
 setuptools>=65.0.0
 wheel
+
+pyrogram==2.0.106
+aiogram==3.4.1
+pydantic>=2.4,<2.6
+python-dotenv==1.0.1
+requests==2.31.0
+httpx==0.27.0
